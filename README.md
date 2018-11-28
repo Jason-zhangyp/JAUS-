@@ -1,4 +1,4 @@
-# JAUS++ (Modified Fork)
+# JAUS++ (Modified)
 This is a modified fork of the original JAUS++ found here https://sourceforge.net/projects/active-ist/files/JAUS%2B%2B/
 
 Jaus++ is a c++ implementation of the Joint Architecture for Unmanned Systems
