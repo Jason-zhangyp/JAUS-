@@ -15,7 +15,11 @@ Installation Instruction
 Find the original instruction here : http://active-ist.sourceforge.net/jaus++/JAUS++%20Documentation.pdf
 
 For *nix systems:
-    From the build directory
-    <code>cmake ..</code>
-    <code>make</code>
-    <code>sudo make install</code>
+    From the build directory  
+
+    <code>cmake ..</code>  
+
+    <code>make</code>  
+
+    <code>sudo make install</code>  
+
