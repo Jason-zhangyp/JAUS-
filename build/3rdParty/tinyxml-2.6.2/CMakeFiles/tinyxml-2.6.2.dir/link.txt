@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -rdynamic -shared -Wl,-soname,libtinyxml-2.6.2.so -o ../../../lib/libtinyxml-2.6.2.so CMakeFiles/tinyxml-2.6.2.dir/tinystr.cpp.o CMakeFiles/tinyxml-2.6.2.dir/tinyxml.cpp.o CMakeFiles/tinyxml-2.6.2.dir/tinyxmlerror.cpp.o CMakeFiles/tinyxml-2.6.2.dir/tinyxmlparser.cpp.o  -L/home/abhiyaan/Downloads/JAUS++-5.141203-src/lib 

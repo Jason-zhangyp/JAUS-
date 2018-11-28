@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/liblzma920.a  CMakeFiles/lzma920.dir/C/LzmaDec.c.o CMakeFiles/lzma920.dir/C/LzmaEnc.c.o CMakeFiles/lzma920.dir/C/LzFind.c.o CMakeFiles/lzma920.dir/C/LzmaLib.c.o CMakeFiles/lzma920.dir/C/CpuArch.c.o CMakeFiles/lzma920.dir/C/7zCrc.c.o CMakeFiles/lzma920.dir/C/7zCrcOpt.c.o CMakeFiles/lzma920.dir/C/Bra86.c.o
+/usr/bin/ranlib ../../../lib/liblzma920.a
