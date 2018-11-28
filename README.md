@@ -16,6 +16,6 @@ Find the original instruction here : http://active-ist.sourceforge.net/jaus++/JA
 
 For *nix systems:
     From the build directory
-    cmake ..
-    make
-    sudo make install
+    <code>cmake ..<br>
+    make<br>
+    sudo make install<br></code>
